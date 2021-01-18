@@ -1,3 +1,3 @@
 # Dinokill-Pygame
 
-Dinosaur game using Python (pygame)
+Dinosaur game using Pygame
